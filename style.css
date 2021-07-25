@@ -1,0 +1,39 @@
+.navbar-brand{
+	margin-left: 10%;
+}
+
+.navbar-text{
+	margin-right: 10%;
+}
+
+hr {
+	position: relative;
+	width: 90%;
+	margin: auto;
+	opacity: 1;
+}
+hr:not([size]) {
+    height: 3px;
+}
+h2{
+	vertical-align: middle;
+	text-align: center;
+	margin-top: 20px;
+}
+.table{
+	border-color: #000000;
+	margin: auto;
+	width: 80%;
+	bottom: 20px;
+	margin-top: 20px;
+	margin-bottom: 30px;
+	border-width: 3px;
+	border: 2px solid;
+}
+
+p{
+	text-align: center;
+	width: 60%;
+	margin: auto;
+	margin-bottom: 30px;
+}
